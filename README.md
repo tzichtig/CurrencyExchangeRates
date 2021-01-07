@@ -1,6 +1,6 @@
 # CurrencyExchangeRates
 This Solution have 2 project
-  1. Console serice to get data from html pages ant write them to file
+  1. Console service to get data from html pages ant write them to file
   2. Wep api to get data from file 
   
   define all relevant variable in app.config (file path, time interval)
